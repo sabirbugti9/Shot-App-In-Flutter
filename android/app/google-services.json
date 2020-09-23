@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179182610414",
+    "firebase_url": "https://shot-app-4ef1c.firebaseio.com",
+    "project_id": "shot-app-4ef1c",
+    "storage_bucket": "shot-app-4ef1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179182610414:android:9dda2c90ea28017cd850ff",
+        "android_client_info": {
+          "package_name": "com.example.shot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179182610414-rtvpjg8q7fr33eahs3m8bqf89sfeo1uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbfPb-jjN9Mx68FOVsKjTVg31OwgcipEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179182610414-rtvpjg8q7fr33eahs3m8bqf89sfeo1uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
